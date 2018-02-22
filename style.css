@@ -36,5 +36,8 @@ p {
   border-bottom: solid;
   border-bottom-color: red;
   padding: 4px;
-
+  padding-bottom: 20px;
+}
+img{
+  padding: 10px;
 }
